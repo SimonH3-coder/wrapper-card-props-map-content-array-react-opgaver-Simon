@@ -1,0 +1,13 @@
+.kort-container {
+  display: grid;
+  grid-template-columns: repeat(1fr, 1fr);
+  gap: 1.5rem;
+  gap: 1.5rem;
+}
+
+.kort {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background: white;
+}
